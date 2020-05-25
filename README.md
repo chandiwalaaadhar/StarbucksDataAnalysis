@@ -1,7 +1,7 @@
 
 This is a Data Analysis and ML project on Starbucks Datasets.
 # My Blog Post Link
-[https://medium.com/@chandiwalaaadhar/this-analysis-will-make-you-understand-how-starbucks-is-no-1-in-world-df754c48687e](https://medium.com/@chandiwalaaadhar/this-analysis-will-make-you-understand-how-starbucks-is-no-1-in-world-df754c48687e)
+[This Analysis will make you understand, how Starbucks is No-1 in World!](https://medium.com/@chandiwalaaadhar/this-analysis-will-make-you-understand-how-starbucks-is-no-1-in-world-df754c48687e)
 
 ## Installation & Usage
 - [X] Make sure you have Jupyter Notebook Installed on your Device
